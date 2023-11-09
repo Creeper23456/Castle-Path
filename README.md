@@ -11,11 +11,11 @@ work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 ```
 > 此艺术创作以CC-BY-SA 4.0发布。在署名的情况下任何人都可对此创作集进行分发、演绎或重新演绎，并允许用于商业用途。对于重新演绎的作品，则需以相同许可发布。
 > 除专辑封面图片外，包括文本、音乐（以XML格式发布）与其他描述文档在内的所有创作均以此协议授权。
-> 详情请查阅[Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
+> 详情请查阅[Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)。
 
 不同于音乐作品本身，本专辑所使用的图片资源来自于Pexels的摄影师[Alesla Kozlk](https://www.pexels.com/zh-cn/photo/6022627/)。在此表示特别的感谢。
 
-在分发、演绎或重新演绎本创作集时，请注意专辑封面须遵守Pexels的[许可证](https://www.pexels.com/zh-cn/license/)
+在分发、演绎或重新演绎本创作集时，请注意专辑封面须遵守Pexels的[许可证](https://www.pexels.com/zh-cn/license/)。
 
 在注明署名时，使用本Github的[发布页](https://github.com/Creeper23456/Castle-Path)即可。
 
@@ -45,19 +45,39 @@ work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 
 下文“作品列表”的链接可直达对应文件的描述文件。
 
-<WIP>
+| 序号      | 文件名 | 正式名称 | 内部代号 |
+| ----------- | ----------- | ----------- | -----------|
+| 1 | Castle Path | 城堡幽径 | 第17号作品，第1个分支 |
+| 2 | Fairy Dance | 精灵之舞 | 第17号作品，第2个分支 |
+| 3 | Begin a new fairy tale | 童话伊始 | 第17号作品 |
+| 4 | Under the autumn sky | 秋日天空下 | 第15号作品，第6个分支 |
+| 5 | A Winter Twilight | 暮色严冬 | 第19号作品，第1个分支 | 
+| 6 | Feast of Spring | 春之盛宴 | 第17号作品，第3个分支 |
+| 7 | Everlasting Summer | 永恒之夏 | 第18号作品 |
+| 8 | Fantastico incontrare | 奇幻相遇 | 第17号作品，第4个分支 |
+| 9 | Sweet smile | 甜动笑颜 | 第19号作品 |
+| 10 | For Jaunty Moment | 至春风吹过的片刻 | 第19号作品，第2个分支 |
+| 11 | Sweet smile for Her | 甜动笑颜（为她生日而作的特别版） | 第19号作品，第3个分支 |
+| 12 | Stand by Her | 在她身旁 | 第19号作品，第5个分支 |
+| 13 | Sweet moon | 月色真美 | 第19号作品，第4个分支，第4个版本 |
+| 14 | Be Together | 在一起 | 第19号作品，第6个分支 |
+| 15 | For the dreams | 为梦想 | 第18号作品，第3个分支 |
+| 16 | Nostalgia | 怀念 | 第18号作品，第2个分支 |
+| 17 | Parallax | 视差 | 第18号作品，第1个分支 |
+| 18 | Memories | 回忆 | 第18号作品，第4个分支 |
+| 19 | Walking in bamboo | 竹林漫步 | 第17号作品，第4个分支 |
 
 ## 城堡幽径-故事集
 
 为本专辑所创作的轻小说。
 
-<WIP>
+参见[城堡幽径-幻想故事集](./99_STORY_SET/README.md)
 
 # 什么是CC-BY-SA-4.0？
 
 ## 简要介绍
 
-## 你可以做什么
+### 你可以做什么
 
 - 表演（包括使用DAW进行制作）所有的单曲。
 
@@ -67,7 +87,7 @@ work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 
 - 改编、改写专辑包含的故事集为游戏、动画或其他任何形式，为此支付稿酬是可选的，你可以在署名的情况下直接拿走用于商用而无需经过特别许可。
 
-## 你不可以做什么
+### 你不可以做什么
 
 - 在自己的改编中移除署名或CC许可。
 
@@ -85,4 +105,8 @@ work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 
 # 支持我！
 
-<WIP>
+你可以通过支付宝赞助我的创作。
+
+赞助意味着你认可我的工作，并出于个人的情感上的认可而向我赠送金钱作为鼓励。赞助并不会让你获得修改条款的权利，也不会限制你或他人使用我的作品的权利。
+
+![alipay-qr](00_COVER_IMG/alipay.png)
