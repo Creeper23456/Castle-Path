@@ -33,6 +33,11 @@ work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 
 本专辑绝大部分曲目均受爱情启发，在表现上有几分大胆。其中的每一首单曲背后的创作故事，将会以乐曲描述的形式将Markdown发布于此Github上。
 
+本人的编曲与作曲功底薄弱，几乎依靠自学。因此欢迎其他人共同参与音乐的制作。可以向我提起Pull Request，或是直接Fork我的项目。你也可以对你的劳动成果进行二次出售。请注意遵守本项目的协议！
+
+> 此专辑在Github的存档用于纪念我大学时的挚爱————只有18天之久的挚爱。也是为该往事画上句号的象征。在经历了失恋后一年的挣扎与内耗后，我选择放弃爱情与创作。
+
+
 ## 项目结构
 
 每个单曲使用一个单独的文件夹存储，分别包括此单曲的MusicXML源文件、README描述文件。
@@ -66,6 +71,12 @@ work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 | 17 | Parallax | 视差 | 第18号作品，第1个分支 |
 | 18 | Memories | 回忆 | 第18号作品，第4个分支 |
 | 19 | Walking in bamboo | 竹林漫步 | 第17号作品，第4个分支 |
+| 20 | Sweet smile | 笑颜 | 序号第9个曲子的合唱改编版 |
+| 21 | CongJunXing | 从军行 | 第30号作品，第1个分支，未完成 |
+| 22 | Wing with Her | 羽翼的方向 | 第19号作品，未完成的分支 |
+| 23 | Be Together Vocal Version | 在一起 | 第19号作品，第6个分支的填词版，未完成 |
+| 24 | Star of the Night | 夜空之星 | 第31号作品，第1个分支，未完成 |
+| 25 | Nostalgia and a cup of tea | 我思念故乡与故乡的茶 | 第22号作品，第2个分支，未完成 |
 
 ## 城堡幽径-故事集
 
@@ -102,6 +113,14 @@ work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 [Alesia kozik@Pexels](https://www.pexels.com/zh-cn/@alesiakozik/)
 
 [MuseScore](https://musescore.org)
+
+感谢校合唱团的指导老师，为合唱部分的创作提供建议。
+
+感谢校图书馆的支持，为本项目的制作提供理论依据。
+
+感谢能遇见她，为我提供不竭的创作灵感。
+
+感谢所有的听众以及他们的建议。
 
 # 支持我！
 
